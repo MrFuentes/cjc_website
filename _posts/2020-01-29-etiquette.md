@@ -1,5 +1,7 @@
 # Dojo Etiquette
 
+How it’s done in Kodakan, the home of judo
+
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/2020-01-29-etiquette/media/image1.jpg)
 
 # Dojo dos and don’ts
