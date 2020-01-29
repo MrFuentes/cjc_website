@@ -16,9 +16,9 @@ twitter_username: judocabra
 
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com
-url: https://cabrajudo.com
+#url: https://cabrajudo.com
 #baseurl: the subpath of your site, e.g. /blog
-baseurl: /cjc_website
+#baseurl: /cjc_website
 
 # Set this to true to get LaTeX math equation support
 use_math: 
