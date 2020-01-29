@@ -1,3 +1,13 @@
-# Your blog
+# This is the Cabra Judo Club blog Repository
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+*_config.yml* 
+
+Contains the jekyll template for the CJC website 
+
+*index.md* 
+
+Contains the static layout for the main CJC page followed by the posts in the _posts directory
+
+*Template*
+
+This repository can be used as a template for other Judo Club websites
