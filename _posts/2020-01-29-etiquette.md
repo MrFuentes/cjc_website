@@ -1,6 +1,6 @@
 # Dojo Etiquette
 
-![Image result for judo dojo etiquette](assets/img/2020-01-29-etiquette/media/image1.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/assets/img/2020-01-29-etiquette/media/image1.jpg)
 
 # Dojo dos and don’ts
 
