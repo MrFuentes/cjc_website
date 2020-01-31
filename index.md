@@ -22,6 +22,11 @@
 {% include info.html text="Decathlon has 10&euro; judo suits for sale ideal for beginners" url="https://www.decathlon.ie/ie_en/100-kids-judo-uniform-white-en-s149518.html" %}
 
 
+{% include image.html url="http://jekyllrb.com"
+max-width="200px" file="logo.png" alt="Jekyll logo"
+caption="This is the Jekyll logo." %}
+
+
 ## Venue
 
 Cabra Parkside Community Sports & Community Centre, Ratoath Road, Cabra, Dublin 7 [**Map**](https://goo.gl/maps/GkZEBZg8fYvLdPHq8){:target="_blank"} 
