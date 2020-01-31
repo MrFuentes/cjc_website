@@ -10,6 +10,10 @@
 
 ![Cabra Judo Club logo](images/CJClogo.png)
 
+{% include alert.html text="You can include alert boxes" %}
+
+{% include info.html text="You can include info boxes" %}
+
 ## Venue
 
 Cabra Parkside Community Sports & Community Centre, Ratoath Road, Cabra, Dublin 7 [**Map**](https://goo.gl/maps/GkZEBZg8fYvLdPHq8){:target="_blank"} 
