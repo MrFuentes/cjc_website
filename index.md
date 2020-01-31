@@ -16,12 +16,10 @@
 
 
 
-{% include alert.html text="IJA Leinster Level 1 coaching course Feb 21 - Mar 1 and Apr 18-19" 
-url=https://irishjudoassociation.ie/calendar/ %}
+{% include alert.html text="IJA Leinster Level 1 coaching course Feb 21 - Mar 1 and Apr 18-19" %}
 
 
-{% include info.html text="Decathlon has 10&euro; judo suits for sale ideal for beginners" 
-url=https://www.decathlon.ie/ie_en/100-kids-judo-uniform-white-en-s149518.html %}
+{% include info.html text="Decathlon has 10&euro; judo suits for sale ideal for beginners" %}
 
 
 ## Venue
