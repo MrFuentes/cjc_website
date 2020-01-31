@@ -23,7 +23,7 @@
 
 
 {% include image.html url="http://jekyllrb.com"
-max-width="200px" file="logo.png" alt="Jekyll logo"
+max-width="200px" file="jekyll_logo.png" alt="Jekyll logo"
 caption="This is the Jekyll logo." %}
 
 
