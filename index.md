@@ -12,6 +12,10 @@
 
 
 
+## News
+
+
+
 {% include alert.html text="IJA Leinster Level 1 coaching course Feb 21 - Mar 1 and Apr 18-19" url="https://irishjudoassociation.ie/calendar/" %}
 
 
